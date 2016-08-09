@@ -1,16 +1,16 @@
 # Malay language dictionary for Sublime Text
 
-The folowing repository contains UTF-8 ready dictionaries for the spell check feature of Sublime Text.
+The following repository contains UTF-8 ready dictionaries for the spell check feature of Sublime Text.
 
 Repo ini mengandungi senarai perkataan (kamus) yang telah diubah ke format UTF-8 untuk digunakan di Sublime Text fungsi _spell check_ (semak ejaan).
 
 ## Usage
 
-1. Git clone or donwlod zip this repository. 
+1. Git clone or download zip this repository. 
 
 2. (_If you use git clone skip to 3_) Extract zip directory.
 
-3. Copy and paste MalayLanguage directory to Sublime Text package directory (which you can acces by click Preferences > Browse Packages in Sublime Text).
+3. Copy and paste MalayLanguage directory to Sublime Text package directory (which you can access by click Preferences > Browse Packages in Sublime Text).
 
 ## Cara guna
 
